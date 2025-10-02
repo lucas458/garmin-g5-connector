@@ -1,0 +1,11 @@
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\bin\Debug\G5_FSX.exe.config
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\bin\Debug\G5_FSX.exe
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\bin\Debug\G5_FSX.pdb
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.Form1.resources
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.Properties.Resources.resources
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.csproj.GenerateResource.cache
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.exe
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.pdb
+C:\Users\Lucas\source\repos\G5_FSX\G5_FSX\obj\Debug\G5_FSX.csproj.CopyComplete
